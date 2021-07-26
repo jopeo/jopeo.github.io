@@ -1,4 +1,6 @@
-# Welcome to my page!
+# Battle Anki
+### a gamification add-on to Anki software
+#### for studing flash cards
 <!---
 ## Welcome to GitHub Pages
 
