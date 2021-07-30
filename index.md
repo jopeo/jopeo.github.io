@@ -1,7 +1,7 @@
-# Battle Anki
-### a gamification add-on to Anki software
-#### for studing flash cards
-hello just testing this out
+# Battle Anki will be temporarily disabled for 4 weeks starting 8/30/21
+## sorry for any inconvenience this has caused
+### but don't worry, it's coming back
+!!!!!!!!!!!!
 
 <!---
 ## Welcome to GitHub Pages
