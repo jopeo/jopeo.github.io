@@ -1,6 +1,5 @@
 ---
 title: Battle Anki
-name: Home
 layout: template
 filename: index
 ---
