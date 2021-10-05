@@ -1,6 +1,5 @@
 ---
 title: About Battle Anki
-description: How, What, Where, Why, When?
 layout: template
 filename: about
 ---
