@@ -11,6 +11,4 @@ Here is the link to the [Ankiweb Battle Anki page](https://ankiweb.net/shared/in
 
 We were developing a research study protocol
 
-### but don't worry, it's coming back
 
-!!!!!!!!!!!!
