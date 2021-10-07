@@ -30,6 +30,6 @@ $hr-border-color: #eff0f1 !default;
 @import "{{ site.theme }}";
 
 blockquote {
-    background-color: #f5f8fa;
+    background-color: #ebeff2; // #f5f8fa;
     border-left: 0.3rem solid $border-color;
 }
