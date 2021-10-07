@@ -39,7 +39,7 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 > 
 ><br>
 
-<br>
+<br/>
 
 
 
