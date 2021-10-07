@@ -23,7 +23,8 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 > 1. Download and install the Anki flash card program by visiting their website [https://apps.ankiweb.net/](https://apps.ankiweb.net/).
 > 2. Within the Anki program, install the Battle Anki add-on. You will need the code for the Battle Anki add-on (613520216),
    also available on the Battle Anki add-on page on the Ankiweb.
->
+><br>
+><br>
 > ### If you have any problems, we are happy to help!
 > - For setup questions or concerns, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com)
 >
