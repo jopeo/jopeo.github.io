@@ -20,7 +20,7 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 
 <br><br>
 
-## Abstracts, Presentations, and Publications
+# Abstracts, Presentations, and Publications
 
 <br>
 
@@ -30,14 +30,14 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 
 <br>
 
-### 6/12 - 6/17/2021 - IAMSE 25th Annual Meeting: Global Perspectives on Health Sciences Education
-
-[![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
+> ### 6/12 - 6/17/2021 - IAMSE 25th Annual Meeting: Global Perspectives on Health Sciences Education
+>
+>[![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
 Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)
 
-### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
-
-<object data="./Images/Research/CIMED_HIRD.pdf" width="800px" height="800px">
+> ### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
+>
+> <object data="./Images/Research/CIMED_HIRD.pdf" width="800px" height="800px">
     <embed src="./Images/Research/CIMED_HIRD.pdf">
         <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
 </object>
