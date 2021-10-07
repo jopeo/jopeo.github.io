@@ -6,6 +6,8 @@ filename: changelog
 
 # Change Log
 
+## v2.3x coming soon!
+
 ## v2.26 4/11/21
 - Server now public 
 - Server info embedded within add-on
