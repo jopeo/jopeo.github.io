@@ -20,10 +20,6 @@ $blockquote-text-color: #819198 !default;
 $code-bg-color: #01245c; // #f3f6fa !default;
 $code-text-color: #1b5570; // #567482 !default;
 
-blockquote {
-    background-color: #e8e8e8;
-}
-
 // Borders
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
@@ -32,3 +28,7 @@ $hr-border-color: #eff0f1 !default;
 
 // @import 'jekyll-theme-cayman';
 @import "{{ site.theme }}";
+
+blockquote {
+    background-color: #e8e8e8;
+}
