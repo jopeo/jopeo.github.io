@@ -37,7 +37,7 @@ Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](http
 
 ### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
 
-<object data="./Images/Research/CIMED_HIRD.pdf" width="100%" height="800px">
+<object data="./Images/Research/CIMED_HIRD.pdf" width="800px" height="800px">
     <embed src="./Images/Research/CIMED_HIRD.pdf">
         <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
 </object>
