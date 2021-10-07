@@ -25,5 +25,12 @@ $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
+.main-content {
+  @include large {
+    max-width: 88rem;
+  }
+}
+
+
 // @import 'jekyll-theme-cayman';
 @import "{{ site.theme }}";
