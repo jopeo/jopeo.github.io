@@ -21,7 +21,7 @@ $code-bg-color: #01245c; // #f3f6fa !default;
 $code-text-color: #1b5570; // #567482 !default;
 
 // Borders
-$border-color: #dce6f0 !default;
+$border-color: #abbac9; // #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 
@@ -30,5 +30,7 @@ $hr-border-color: #eff0f1 !default;
 @import "{{ site.theme }}";
 
 blockquote {
-    background-color: #e8e8e8;
+    background-color: #edf0f2;
+    border-left: 0.3rem solid $border-color;
+
 }
