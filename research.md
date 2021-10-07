@@ -17,3 +17,34 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 1. immediately upon enrollment
 2. midway through the study
 3. at the conclusion of the study
+
+<br><br>
+
+## Abstracts, Presentations, and Publications
+
+<br>
+
+### Coming soon - CIMED Retreat Presentation
+
+### Coming soon - MELS Presentation
+
+<br>
+
+### 6/12 - 6/17/2021 - IAMSE 25th Annual Meeting: Global Perspectives on Health Sciences Education
+
+![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
+Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)
+
+### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
+
+![Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
+Presentation](./Images/Research/CIMED_HIRD.pdf)
+
+
+<br><br><br>
+
+## Research Team
+
+<br>
+
+#### Joseph Policarpio
