@@ -11,6 +11,8 @@ filename: about
 >
 >The Battle Anki add-on is not affiliated with, and was not created by the Anki development team.
 
+<br>
+
 ># What is an Anki add-on?
 >
 >[Anki add-ons](https://docs.ankiweb.net/addons.html?highlight=add#add-ons) are third-party extensions to the Anki software
@@ -23,6 +25,8 @@ filename: about
 >> [here](https://glutanimate.com/projects/#anki-addons).
 >
 >### A full list of available Anki add-ons is available on the Ankiweb here: [https://ankiweb.net/shared/addons/](https://ankiweb.net/shared/addons/).
+
+<br>
 
 ># Inspiration
 >
