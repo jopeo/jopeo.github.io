@@ -35,6 +35,8 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 >[![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
 Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)
 
+<br><br>
+
 > ### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
 
 <object data="./Images/Research/CIMED_HIRD.pdf" width="100%" height="800px">
