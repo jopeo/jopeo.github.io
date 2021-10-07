@@ -36,11 +36,11 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)
 
 > ### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
->
-> <object data="./Images/Research/CIMED_HIRD.pdf" width="800px" height="800px">
->    <embed src="./Images/Research/CIMED_HIRD.pdf">
->        <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
-> </object>
+
+ <object data="./Images/Research/CIMED_HIRD.pdf" width="800px" height="800px">
+    <embed src="./Images/Research/CIMED_HIRD.pdf">
+        <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
+ </object>
 
 <br><br><br>
 
@@ -49,3 +49,7 @@ Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](http
 <br>
 
 #### Joseph Policarpio
+
+#### Bailey MacInnis
+
+#### Dr. RW
