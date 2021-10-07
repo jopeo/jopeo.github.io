@@ -24,13 +24,13 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 > 2. Within the Anki program, install the Battle Anki add-on. You will need the code for the Battle Anki add-on (613520216),
    also available on the Battle Anki add-on page on the Ankiweb.
 > 
->> ####
->> #### If you have any problems, we are happy to help!
+>> ### <br/>
+>> ### If you have any problems, we are happy to help!
 >> - For setup questions or concerns, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com)
 >>
 >> - For software issues during runtime use, please open an issue on the respective GitHub repository:
->>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
->>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
+>>>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
+>>>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
 
 
 
