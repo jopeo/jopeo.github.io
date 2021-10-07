@@ -17,6 +17,8 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 - a new graphic and layout for battle invitations
 - a reformatted add-on config file and interface
 
+<br/>
+
 > ### To get started using Battle Anki
 > 1. Download and install the Anki flash card program by visiting their website [https://apps.ankiweb.net/](https://apps.ankiweb.net/).
 > 2. Within the Anki program, install the Battle Anki add-on. You will need the code for the Battle Anki add-on (613520216),
@@ -26,8 +28,8 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 >>
 >>
 >>- For software issues during runtime use, please open an issue on the respective GitHub repository:
->>  + Battle Anki add-on (client) respository: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
->>  + Server repository: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
+>>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
+>>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
 
 
 
