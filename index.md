@@ -11,6 +11,8 @@ filename: index
 
 Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/info/613520216)** on the Ankiweb.
 
+[Join us on Twitter!](https://twitter.com/BattleAnki)
+
 ## Some recent implementations coming soon!:
 
 - "Solo Battle" option to play against yourself in the past (your best times are saved and can be reset)
