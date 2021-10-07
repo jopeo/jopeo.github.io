@@ -21,7 +21,7 @@ filename: about
 >>- [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094) - to hide parts of an image
 >>- [Review Heatmap](https://ankiweb.net/shared/info/1771074083) - to visualize past and future card review activity
 >>
->> Other works by this talented medical student by the pseudnym Glutanimate is available
+>> Other works by this talented medical student by the pseudnym Glutanimate are available
 >> [here](https://glutanimate.com/projects/#anki-addons).
 >
 ### A full list of available Anki add-ons is available on the Ankiweb here: [https://ankiweb.net/shared/addons/](https://ankiweb.net/shared/addons/).
