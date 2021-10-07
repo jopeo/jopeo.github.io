@@ -36,7 +36,9 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 ><br>
 >>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
 >>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
-
+><br>
+><br>
+<br>
 
 
 
