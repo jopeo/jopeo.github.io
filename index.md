@@ -32,7 +32,6 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 > - For setup questions or concerns, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com)
 > - For software issues during runtime use, please open an issue on the respective GitHub repository:
 ><br>
-><br>
 >>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
 >>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
 
