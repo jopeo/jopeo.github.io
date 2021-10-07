@@ -32,13 +32,22 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 
 ### 6/12 - 6/17/2021 - IAMSE 25th Annual Meeting: Global Perspectives on Health Sciences Education
 
-![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
-Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)
+[![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
+Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)
 
 ### 4/16/2021 - Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
 
-![Carle Illinois College of Medicine 19th Annual Health Innovation Research Day
-Presentation](./Images/Research/CIMED_HIRD.pdf)
+<object data="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+[comment]: <> (![Carle Illinois College of Medicine 19th Annual Health Innovation Research Day)
+
+[comment]: <> (Presentation]&#40;./Images/Research/CIMED_HIRD.pdf "Carle Illinois College of Medicine 19th Annual Health Innovation Research Day)
+
+[comment]: <> (Presentation"&#41;)
 
 
 <br><br><br>
