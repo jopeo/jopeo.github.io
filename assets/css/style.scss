@@ -11,6 +11,7 @@ $header-bg-color: #000000;
 $header-bg-color-secondary: #0066B8;
 
 // Text
+$section-max-width: 88rem
 $section-headings-color: #01245c;
 $body-text-color: #242424; // #606c71 !default;
 $body-link-color: #1e6bb8 !default;
@@ -24,12 +25,6 @@ $code-text-color: #1b5570; // #567482 !default;
 $border-color: #dce6f0 !default;
 $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
-
-.main-content {
-  @include large {
-    max-width: 88rem;
-  }
-}
 
 
 // @import 'jekyll-theme-cayman';
