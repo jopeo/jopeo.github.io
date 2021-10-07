@@ -19,7 +19,7 @@ Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/i
 
 <br/>
 
-> ### To get started using Battle Anki
+> ## To get started using Battle Anki
 > 1. Download and install the Anki flash card program by visiting their website [https://apps.ankiweb.net/](https://apps.ankiweb.net/).
 > 2. Within the Anki program, install the Battle Anki add-on. You will need the code for the Battle Anki add-on (613520216),
    also available on the Battle Anki add-on page on the Ankiweb.
