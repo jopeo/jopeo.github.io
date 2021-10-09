@@ -5,11 +5,11 @@ filename: index
 ---
 
 >### <span style="color:red">  Battle Anki will be temporarily disabled from 11/8/21 to 12/12/21 for a crossover research study.</span>
->#### For more information about this single-institution study, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com) 
+>#### For more information about this single-institution study, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com)
 
 # Battle Anki is back and better than ever!
 
-Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/info/613520216)** on the Ankiweb.
+Here is the link to the [Battle Anki add-on page](https://ankiweb.net/shared/info/613520216){:target="\_blank"} on the Ankiweb.
 
 Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 
