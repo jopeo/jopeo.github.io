@@ -12,6 +12,8 @@ filename: contact
 > Please open an issue on the respective GitHub repository page.
 > - [Client add-on GitHub issues](https://github.com/jopeo/Battle-Anki/issues)
 > - [Server GitHub issues](https://github.com/jopeo/Server-for-Battle-Anki/issues)
+> 
+> <br>
 
 ### Email: [battleanki@gmail.com](mailto:battleanki@gmail.com)
 
