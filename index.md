@@ -13,7 +13,7 @@ Here is the link to the [Battle Anki add-on page](https://ankiweb.net/shared/inf
 
 Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 
-[Follow us on Twitter!](https://twitter.com/BattleAnki)
+[Follow us on Twitter!](https://twitter.com/BattleAnki){:target="\_blank"}
 
 ## Some recent implementations coming soon!:
 
@@ -25,7 +25,7 @@ Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 
 > ## To get started using Battle Anki
 > 
-> 1. Download and install the Anki flash card program by visiting their website [https://apps.ankiweb.net/](https://apps.ankiweb.net/).
+> 1. Download and install the Anki flash card program by visiting their website [https://apps.ankiweb.net/](https://apps.ankiweb.net/){:target="\_blank"}.
 > 2. Within the Anki program, install the Battle Anki add-on. You will need the code for the Battle Anki add-on (**613520216**),
    also available on the Battle Anki add-on page on the Ankiweb.
 ><br>
@@ -36,8 +36,8 @@ Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 > - For setup questions or concerns, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com)
 > - For software issues during runtime use, please open an issue on the respective GitHub repository:
 ><br>
->>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki)
->>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki)
+>>  + **Battle Anki add-on (client) respository**: [https://github.com/jopeo/Battle-Anki](https://github.com/jopeo/Battle-Anki){:target="\_blank"}
+>>  + **Server repository**: [https://github.com/jopeo/Server-for-Battle-Anki](https://github.com/jopeo/Server-for-Battle-Anki){:target="\_blank"}
 > 
 ><br>
 

@@ -10,14 +10,14 @@ filename: contact
 > ### For software issues:
 >
 > Please open an issue on the respective GitHub repository page.
-> - [Client add-on GitHub issues](https://github.com/jopeo/Battle-Anki/issues)
-> - [Server GitHub issues](https://github.com/jopeo/Server-for-Battle-Anki/issues)
+> - [Client add-on GitHub issues](https://github.com/jopeo/Battle-Anki/issues){:target="\_blank"}
+> - [Server GitHub issues](https://github.com/jopeo/Server-for-Battle-Anki/issues){:target="\_blank"}
 
 ### Email: [battleanki@gmail.com](mailto:battleanki@gmail.com)
 
-### Twitter: [https://twitter.com/BattleAnki](https://twitter.com/BattleAnki)
+### Twitter: [https://twitter.com/BattleAnki](https://twitter.com/BattleAnki){:target="\_blank"}
 
-### Ankiweb: [https://ankiweb.net/shared/info/613520216](https://ankiweb.net/shared/info/613520216)
+### Ankiweb: [https://ankiweb.net/shared/info/613520216](https://ankiweb.net/shared/info/613520216){:target="\_blank"}
 
 
 
