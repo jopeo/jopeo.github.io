@@ -8,6 +8,11 @@ filename: changelog
 
 ## v2.3x coming soon!
 
+New version will include:
+- “Solo Battle” option to play against yourself in the past (your best times are saved and can be reset)
+- a new graphic and layout for battle invitations
+- a reformatted add-on config file and interface
+
 ## v2.26 4/11/21
 - Server now public 
 - Server info embedded within add-on
