@@ -33,7 +33,7 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 > ### 6/17/2021 - IAMSE 25th Annual Meeting: Global Perspectives on Health Sciences Education
 >
 >[![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
-Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)
+Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
 
 <br><br>
 
