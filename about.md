@@ -26,14 +26,10 @@ filename: about
 
 ### A full list of available Anki add-ons is available on the Ankiweb here: [https://ankiweb.net/shared/addons/](https://ankiweb.net/shared/addons/){:target="\_blank"}.
 
-<br>
-
 # Inspiration
 
  Battle Anki was created during the COVID-19 pandemic by a second-year medical student in preparation for an upcoming
  dedicated USMLE Step 1 study period. 
-
-<br>
 
 # Software Development
  
