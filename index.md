@@ -11,7 +11,9 @@ filename: index
 
 Here is the link to the **[Battle Anki add-on page](https://ankiweb.net/shared/info/613520216)** on the Ankiweb.
 
-[Join us on Twitter!](https://twitter.com/BattleAnki)
+#### Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
+
+[Follow us on Twitter!](https://twitter.com/BattleAnki)
 
 ## Some recent implementations coming soon!:
 
