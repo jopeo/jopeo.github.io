@@ -51,23 +51,23 @@ After weeks of failure the first successful Battle Anki battle took place on Nov
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
-Quite obsolete compared to the most recent Battle Anki version!
+Quite obsolete compared to the most recent Battle Anki version! :joy:
  
 ## Key Opinion Leaders
  
 There is no greater compliment from a colleague than your willingness to risk your Anki collection. 
 Your help and contributions will never be forgotten: <br>
-Rahul Ramanathan <br>
-Ashkhan Hojati <br>
-Greg Payne <br>
-Bara Saadah <br>
-Katy Staufer <br>
-Keith Cordner <br>
-Natalie Ramsy <br>
-Emily Smith <br>
-Caywin Zhuang <br>
-Anton Christensen <br>
-Prachi Keni <br>
-Lindsey Ades <br>
+Rahul Ramanathan <br> <br>
+Ashkhan Hojati <br> <br>
+Greg Payne <br> <br>
+Bara Saadah <br> <br>
+Katy Staufer <br> <br>
+Keith Cordner <br> <br>
+Natalie Ramsy <br> <br>
+Emily Smith <br> <br>
+Caywin Zhuang <br> <br>
+Anton Christensen <br> <br>
+Prachi Keni <br> <br>
+Lindsey Ades <br> <br>
 
 
