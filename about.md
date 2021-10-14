@@ -28,34 +28,24 @@ filename: about
 
 # Inspiration
 
- Battle Anki was created during the COVID-19 pandemic by a second-year medical student in preparation for an upcoming
- dedicated USMLE Step 1 study period. 
+Battle Anki was created during the COVID-19 pandemic by a second-year medical student in preparation for an upcoming
+dedicated USMLE Step 1 study period.
 
-# Software Development
- 
- In response to the quarantine, this software was developed to improve relatedness to colleagues while allowing for
- semi-independent study of unique topics.
- 
- This add-on was developed in the Fall of 2020 by Joseph Policarpio, a then second-year medical student
- at the Carle Illinois College of Medicine. Having fundamental programming experience with Matlab and Visual Basic, he 
- learned the Python programming language in a period of roughly four weeks with the help of free, online resources 
- including instructional YouTube videos from [Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming
- with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}. Many thanks to these outstanding teachers and developers.
- 
- Of course, Mr. Policarpio was not alone in his endeavor - several friends and colleagues helped with troubleshooting, graphic user
- interface design,  ideas for functional features, and testing of alpha and beta releases.
+## The First Battle
 
-## The First Battle 
-
-After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 with Rahul Ramanathan, a great friend and colleague.
+After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 between the creator
+of Battle Anki, Joseph Policarpio, and Rahul Ramanathan, a great friend and colleague.
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
 Quite obsolete compared to the most recent Battle Anki version! 🤣
- 
+
 ## Key Opinion Leaders
- 
-There is no greater compliment from a colleague than your willingness to risk your Anki collection. 
+
+Of course several friends and colleagues helped with troubleshooting, graphic user
+interface design,  ideas for functional features, and testing of alpha and beta releases.
+
+There is no greater compliment from a colleague than your willingness to risk your Anki collection.
 Your help and contributions will never be forgotten: <br> <br>
 Rahul Ramanathan <br> <br>
 Ashkhan Hojati <br> <br>
@@ -69,5 +59,18 @@ Caywin Zhuang <br> <br>
 Anton Christensen <br> <br>
 Prachi Keni <br> <br>
 Lindsey Ades <br> <br>
+
+# Software Development
+
+In response to the COVID-19 quarantine, this software was developed to improve relatedness to colleagues while allowing for
+semi-independent study of unique topics.
+
+This add-on was developed in the Fall of 2020 by Joseph Policarpio, a then second-year medical student
+at the Carle Illinois College of Medicine. Having fundamental programming experience with Matlab and Visual Basic, he 
+learned the Python programming language in a period of roughly four weeks with the help of free, online resources 
+including instructional YouTube videos from [Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming
+with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}. Many thanks to these outstanding teachers and developers.
+
+
 
 
