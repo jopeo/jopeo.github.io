@@ -51,7 +51,7 @@ After weeks of failure the first successful Battle Anki battle took place on Nov
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
-Quite obsolete compared to the most recent Battle Anki version! :joy:
+Quite obsolete compared to the most recent Battle Anki version! 🤣
  
 ## Key Opinion Leaders
  
