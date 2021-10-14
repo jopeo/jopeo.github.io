@@ -56,7 +56,7 @@ Quite obsolete compared to the most recent Battle Anki version! :joy:
 ## Key Opinion Leaders
  
 There is no greater compliment from a colleague than your willingness to risk your Anki collection. 
-Your help and contributions will never be forgotten: <br>
+Your help and contributions will never be forgotten: <br> <br>
 Rahul Ramanathan <br> <br>
 Ashkhan Hojati <br> <br>
 Greg Payne <br> <br>
