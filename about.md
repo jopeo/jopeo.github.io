@@ -47,7 +47,7 @@ filename: about
 
 ## The First Battle 
 
-After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 with Rahul Ramanathan, a good friend and colleague.
+After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 with Rahul Ramanathan, a great friend and colleague.
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
