@@ -42,14 +42,34 @@ filename: about
  including instructional YouTube videos from [Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming
  with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}. Many thanks to these outstanding teachers and developers.
  
- Of course, Mr. Policarpio was not alone in his endeavor - several friends and colleagues were invited to participate
- as **Key Opinion Leaders**, providing help with troubleshooting, suggestions for software implementation, and testing
- of alpha and beta releases.
+ Of course, Mr. Policarpio was not alone in his endeavor - several friends and colleagues helped with troubleshooting, graphic user
+ interface design,  ideas for functional features, and testing of alpha and beta releases.
+
+## The First Battle 
+
+After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 with Rahul Ramanathan, a good friend and colleague.
+
+![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
+
+Quite obsolete compared to the most recent Battle Anki version!
  
- ### Key Opinion Leaders
+## Key Opinion Leaders
  
- There is no greater compliment from a colleague than their willingness to risk their Anki collection. Their help and
- contributions will never be forgotten.
+There is no greater compliment from a colleague than your willingness to risk your Anki collection. 
+Your help and contributions will never be forgotten:
+Rahul Ramanathan
+Ashkhan Hojati
+Greg Payne
+Bara Saadah
+Katy Staufer
+Keith Cordner
+Natalie Ramsy
+Emily Smith
+Caywin Zhuang
+Anton Christensen
+Prachi Keni
+Lindsey Ades
+
  
  
  
