@@ -26,7 +26,8 @@ Gamification features will be enabled for two weeks, and disabled for two weeks,
 
 ### Coming soon - CIMED Retreat Presentation
 
-### Coming soon - MELS Presentation
+>### 10/29/2021 - MELS Presentation
+>[![Rethinking Anki: An Innovative Gamification Add-on](./Images/Research/MELS_Poster.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
 
 <br>
 
@@ -54,4 +55,4 @@ Repetition](./Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](http
 
 #### Bailey MacInnis
 
-#### Dr. RW
+#### Dr. Robert Wallon
