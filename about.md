@@ -33,8 +33,7 @@ dedicated USMLE Step 1 study period.
 
 ## The First Battle
 
-After weeks of failure the first successful Anki with Friends study session took place on November 5, 2020 between the creator
-of Anki with Friends, Joseph Policarpio, and Rahul Ramanathan, a great friend and colleague.
+After weeks of failure the first successful Anki with Friends study session took place on November 5, 2020 between two friends!
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
@@ -65,11 +64,11 @@ Lindsey Ades <br> <br>
 In response to the COVID-19 quarantine, this software was developed to improve relatedness to colleagues while allowing for
 semi-independent study of unique topics.
 
-This add-on was developed in the Fall of 2020 by Joseph Policarpio, a then second-year medical student
-at the Carle Illinois College of Medicine. Having fundamental programming experience with Matlab and Visual Basic, he 
-learned the Python programming language in a period of roughly four weeks with the help of free, online resources 
-including instructional YouTube videos from [Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming
-with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}. Many thanks to these outstanding teachers and developers.
+This add-on was developed in the Fall of 2020 a second-year medical student at the Carle Illinois College of Medicine.
+Having fundamental programming experience with Matlab and Visual Basic, the Python programming language was learned in a
+period of roughly four weeks with the help of free, online resources including instructional YouTube videos from
+[Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}.
+Many thanks to these outstanding teachers and developers.
 
 # Join Us!
 
