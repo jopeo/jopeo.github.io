@@ -1,14 +1,17 @@
 ---
-title: Battle Anki Changelog
+title: Anki with Friends Changelog
 layout: template
 filename: changelog
 ---
 
 # Change Log
 
-## v2.3x coming soon!
+## v3.0 2/5/22
 
-New version will include:
+- name of add-on changed to **Anki with Friends**
+
+## v2.7x 11/28/21!
+
 - “Solo Battle” option to play against yourself in the past (your best times are saved and can be reset)
 - a new graphic and layout for battle invitations
 - a reformatted add-on config file and interface
@@ -42,7 +45,7 @@ New version will include:
 #### Backend changes
 - Improved thread handling
 - sys.exit is no longer called from the addon
-- User profile dialog can now be accessed without having to restart Anki and disable Battle Anki
+- User profile dialog can now be accessed without having to restart Anki and disable Anki with Friends
 
 ## v2.08  12/31/20
 - New Year's edition

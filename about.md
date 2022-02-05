@@ -1,5 +1,5 @@
 ---
-title: About Battle Anki
+title: About Anki with Friends
 layout: template
 filename: about
 ---
@@ -9,7 +9,7 @@ filename: about
 >[Anki](https://apps.ankiweb.net/){:target="_blank"} is amazing, open-source flash card software for learning and remembering anything you
 >would like. The manual for the Anki program is available here: [https://docs.ankiweb.net/](https://docs.ankiweb.net/){:target="_blank"}.
 >
->The Battle Anki add-on is not affiliated with, and was not created by the Anki development team.
+>The Anki with Friends add-on is not affiliated with, and was not created by the Anki development team.
 
 <br>
 
@@ -17,7 +17,7 @@ filename: about
 
 >[Anki add-ons](https://docs.ankiweb.net/addons.html?highlight=add#add-ons){:target="_blank"} are third-party extensions to the Anki software
 >that can be added to Anki to give it additional features and abilities. In addition to
->[Battle Anki](https://ankiweb.net/shared/info/613520216){:target="_blank"}, some examples that many medical students use are:
+>[Anki with Friends](https://ankiweb.net/shared/info/613520216){:target="_blank"}, some examples that many medical students use are:
 >>- [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094){:target="_blank"} - to hide parts of an image
 >>- [Review Heatmap](https://ankiweb.net/shared/info/1771074083){:target="_blank"} - to visualize past and future card review activity
 >>
@@ -28,17 +28,17 @@ filename: about
 
 # Inspiration
 
-Battle Anki was created during the COVID-19 pandemic by a second-year medical student in preparation for an upcoming
+Anki with Friends was created during the COVID-19 pandemic by a second-year medical student in preparation for an upcoming
 dedicated USMLE Step 1 study period.
 
 ## The First Battle
 
-After weeks of failure the first successful Battle Anki battle took place on November 5, 2020 between the creator
-of Battle Anki, Joseph Policarpio, and Rahul Ramanathan, a great friend and colleague.
+After weeks of failure the first successful Anki with Friends study session took place on November 5, 2020 between the creator
+of Anki with Friends, Joseph Policarpio, and Rahul Ramanathan, a great friend and colleague.
 
 ![The first battle with Rahul](./Images/thefirstbattlewithRahul.jpg)
 
-Quite obsolete compared to the most recent Battle Anki version! 🤣
+Quite obsolete compared to the most recent Anki with Friends version! 🤣
 
 ## Key Opinion Leaders
 
@@ -70,6 +70,12 @@ at the Carle Illinois College of Medicine. Having fundamental programming experi
 learned the Python programming language in a period of roughly four weeks with the help of free, online resources 
 including instructional YouTube videos from [Tech With Tim](https://www.youtube.com/c/TechWithTim){:target="_blank"} and [Programming
 with Mosh](https://www.youtube.com/c/programmingwithmosh){:target="_blank"}. Many thanks to these outstanding teachers and developers.
+
+# Join Us!
+
+If you are interested in joining our team, please email us at [battleanki@gmail.com](mailto:battleanki@gmail.com).
+
+While we greatly appreciate help that you may be willing to provide, there will be no compensation for any services rendered at this time.
 
 
 
