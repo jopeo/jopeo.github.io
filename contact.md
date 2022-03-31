@@ -13,7 +13,7 @@ filename: contact
 > - [Client add-on GitHub issues](https://github.com/jopeo/Anki-with-Friends/issues){:target="_blank"}
 > - [Server GitHub issues](https://github.com/jopeo/Server-for-Battle-Anki/issues){:target="_blank"}
 
-### Email: [battleanki@gmail.com](mailto:battleanki@gmail.com)
+### Email: [ankiwithfriends@gmail.com](mailto:ankiwithfriends@gmail.com)
 
 ### Twitter: [https://twitter.com/BattleAnki](https://twitter.com/BattleAnki){:target="_blank"}
 
