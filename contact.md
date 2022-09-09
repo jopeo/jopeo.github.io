@@ -15,7 +15,7 @@ filename: contact
 
 ### Email: [ankiwithfriends@gmail.com](mailto:ankiwithfriends@gmail.com)
 
-### Twitter: [https://twitter.com/BattleAnki](https://twitter.com/BattleAnki){:target="_blank"}
+[comment]: <> (### Twitter: [https://twitter.com/BattleAnki]&#40;https://twitter.com/BattleAnki&#41;{:target="_blank"})
 
 ### Ankiweb: [https://ankiweb.net/shared/info/613520216](https://ankiweb.net/shared/info/613520216){:target="_blank"}
 

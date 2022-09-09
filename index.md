@@ -4,13 +4,13 @@ layout: template
 filename: index
 ---
 
-# Anki with Friends (previously Battle Anki) is back and better than ever!
+# Anki with Friends allows you to study remotely with your friends!
 
 Here is the link to the [Anki with Friends add-on page](https://ankiweb.net/shared/info/613520216){:target="_blank"} on the Ankiweb.
 
 Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 
-[Follow us on Twitter!](https://twitter.com/BattleAnki){:target="_blank"}
+[comment]: <> ([Follow us on Twitter!]&#40;https://twitter.com/BattleAnki&#41;{:target="_blank"})
 
 ## Some recent implementations to the add-on!:
 
